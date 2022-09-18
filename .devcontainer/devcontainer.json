@@ -25,7 +25,7 @@
 	"settings": {},
 
 	//MJC
-	"hostRequirements": {"cpus": 10, "memory": "2gb"},
+	"hostRequirements": {"cpus": 4, "memory": "2gb"},
 
 	//mjc
 	//"runArgs": [ "--cpus=\"1.5\"" ],
