@@ -3,7 +3,7 @@ version: '3.5'
 services:
   ### Jesse's Workspace ################################################
   jesse:
-    image: salehmir/jesse:0.37.1
+    image: salehmir/jesse:latest
     depends_on:
       - postgres
       - redis
